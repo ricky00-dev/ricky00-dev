@@ -10,11 +10,13 @@ Backend Developer | 단국대학교 소프트웨어학과
 
 ## 🚀 Featured Projects
 
-**Union** — Spring Boot 기반 캠퍼스 슈퍼앱 플랫폼
-- JWT 인증, FCM 푸시 알림, Redis 기반 Rate Limiting, PostGIS 위치 기반 서비스
+**Union** — Spring Boot 기반 대학생 대상 미니앱 슈퍼앱 플랫폼
+- JWT 이중 인증(User/Publisher/Internal), Redis 기반 Rate Limiting
+- 수만 명 대상 FCM 대량 푸시 발송 시스템 (커서 기반 청크 + Multicast 배치)
 
-**Trender** — FastAPI 기반 위치 서비스
-- Redis Connection Pooling, Lua Script를 이용한 원자적 토큰 갱신
+**Trender** — FastAPI 기반 소셜 트렌드 위치 서비스
+- PostGIS GiST 인덱스 활용, ST_DWithin 반경 검색 쿼리 최적화
+- Redis Connection Pooling 개선, Lua Script 기반 원자적 토큰 갱신
 - JWT 블랙리스트 최적화로 메모리 사용량 약 91% 절감
 
 **mlpa_grading** · **django-lotto-docker** · **openSW**
