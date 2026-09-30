@@ -48,7 +48,7 @@
 
 | Project | Role | Stack |
 |---|---|---|
-| **Trender** · 트렌드 기반 위치 서비스 (출시 준비 중) | Backend · PR 25+ | FastAPI · PostgreSQL · Redis |
+| **Keepsa** · 위치 기반 서비스 (출시 준비 중) | Backend · PR 25+ | FastAPI · PostgreSQL · Redis |
 | **[Union](https://github.com/dku-union/union-app-backend)** · 대학생 미니앱 슈퍼앱 | Backend · PR 30 | Spring Boot · Redis · FCM |
 
 <p align="center">
