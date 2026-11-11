@@ -1,6 +1,8 @@
-## Backend Developer 👨🏻‍💻
+## Backend · Product Engineer 👨🏻‍💻
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:comicricky20@gmail.com)
+
+백엔드를 중심으로 웹·앱 화면과 배포까지, 서비스를 끝까지 만듭니다.
 
 단국대학교 소프트웨어학과 · SQLD · ADsP
 
@@ -38,11 +40,13 @@
 
 ![Pytest](https://img.shields.io/badge/Pytest-333333?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 
-### Also 🧩
+### Frontend & App 📱
 
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![NestJS](https://img.shields.io/badge/NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 ## 🚀 Projects
 
