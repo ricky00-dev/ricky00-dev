@@ -46,9 +46,12 @@
 
 ## 🚀 Projects
 
+자세한 내용은 [포트폴리오 사이트](https://ricky00-dev.github.io)에서 볼 수 있어요.
+
 | Project | Role | Stack |
 |---|---|---|
-| **Keepsa** · 위치 기반 서비스 (출시 준비 중) | Backend · PR 25+ | FastAPI · PostgreSQL · Redis |
+| **Keepsa** · 위치 기반 서비스 (출시 준비 중) | Backend · PR 52 | FastAPI · PostgreSQL · Redis |
+| **불앤베어** · AI 토론 모의투자 교육 서비스 (졸업 전시) | Backend · Web · PR 47 | Spring Boot · PostgreSQL · SSE |
 | **[Union](https://github.com/dku-union/union-app-backend)** · 대학생 미니앱 슈퍼앱 | Backend · PR 30 | Spring Boot · Redis · FCM |
 
 <p align="center">
